@@ -32,7 +32,7 @@ On Command line C:\Users\anup.mondal>systeminfo and hit enter,
 On Run "msinfo32" and hit enter ,
 Check Device specification and windows specification (Win + x > System) ,
 
-#### Processor , RAM, GPU Information —   
+#### Processor, RAM, GPU Information —   
 "Win+x > Task manager > More details  > Run any 4K videos in chrome and check
 Graphics quality On running video,
 "CPU" and "Memory" performance and details from right up corner",
