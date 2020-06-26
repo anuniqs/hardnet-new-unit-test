@@ -3,7 +3,7 @@
 Do a physical test if any scratches or anything broken or lead is having any issue etc.
 
 #### Ports —   
-Check all the available ports
+Check all the available ports accordingly
 
 #### Ventilation , Fan And Temperature —   
 Monitor System temperature by touching and check if the air blows properly and check the fan noise as well.
