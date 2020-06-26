@@ -1,11 +1,11 @@
 
-**Physical Test for Scratch and Cracks :**  
+#### Physical Test for Scratch and Cracks :  
 Do a physical test if any scratches or anything broken or lead is having any issue etc.
 
-**Ports :**  
+#### Ports :  
 Check all the available ports
 
-**Ventilation , Fan And Temperature :**  
+#### Ventilation , Fan And Temperature :  
 Monitor System temperature by touching and check if the air blows properly and check the fan noise as well.
  
 **Keyboard :**  
