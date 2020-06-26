@@ -20,7 +20,7 @@ Check MIC
 
 ### Battery —   
 Check battery performance 1. How much time it takes to get full charge in standby mode and while using 2. Check how much backup it Providing in standby and while using ,  
-To find report , C:\Windows\system32>powercfg /batteryreport /output "C:\battery_report.html"  
+To find report , C:\Windows\system32 > powercfg /batteryreport /output "C:\battery_report.html"  
 
 ### Display —   
 Play any 4K video to observe any Lag or any display quality issue, (Perform these tasks in a black dark room)  
@@ -29,7 +29,7 @@ Check with black full screen mode if there is any Backlight Bleed (Perform these
 Check reflexion also in a bright room by changing display color and while playing video.  (Perform these tasks in a black dark room and and bright room)  
 
 ### System Specifications (Hardware , Component and Software) —   
-On Command line C:\Users\anup.mondal>systeminfo and hit enter,  
+On Command line C:\Users\anup.mondal > systeminfo and hit enter,  
 On Run "msinfo32" and hit enter ,  
 Check Device specification and windows specification (Win + x > System) ,  
 
@@ -46,7 +46,7 @@ Check if the system is updated with the latest version of windows (Type "winver"
 Check Drivers like graphics card and all are updated to latest  
 
 ### BIOS Version —   
-Check your BIOS version C:\Users\user.name>wmic bios get smbiosbiosversion  
+Check your BIOS version C:\Users\user.name > wmic bios get smbiosbiosversion  
 
 ### Your pc health status —   
 Go run by win+r, type "perfmon /report and hit enter"  
