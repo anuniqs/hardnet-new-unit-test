@@ -1,11 +1,11 @@
 
-Physicall Test for Scratch and Cracks :
+**Physicall Test for Scratch and Cracks :**
 Do a physicall test if any scratches or anything broken or lead is having any issue etc.
 
-Ports :
+**Ports :**
 Check all the available ports
 
-Ventilation , Fan And Temparature :
+**Ventilation , Fan And Temparature :**
 Monitor System temparature by touching and check if the air blows properly and check the fan noise as well.
  
 Keyboard :
