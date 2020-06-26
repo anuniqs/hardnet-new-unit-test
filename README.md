@@ -1,8 +1,8 @@
 
-#### Physical Test for Scratch and Cracks —   
+### Physical Test for Scratch and Cracks —   
 Do a physical test if any scratches or anything broken or lead is having any issue etc.  
 
-#### Ports —   
+### Ports —   
 Check all the available ports accordingly  
 
 #### Ventilation , Fan And Temperature —   
