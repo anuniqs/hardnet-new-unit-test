@@ -48,7 +48,7 @@ Check Drivers like graphics card and all are updated to latest
 Check your BIOS version C:\Users\user.name > wmic bios get smbiosbiosversion  
 
 ### Your pc health status —   
-Go run by win+r, type "perfmon /report and hit enter"  
+Go run by win+r, type "perfmon /report" and hit enter  
 
 ### Monitor Performance —   
-Go run by win+r, and type "perfmon.msc and hit enter"  
+Go run by win+r, and type "perfmon.msc" and hit enter  
